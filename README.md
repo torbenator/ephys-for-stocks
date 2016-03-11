@@ -1,6 +1,6 @@
 # ephys-for-stocks
 
-### Trying to analyze stock market data using electrophysiological analyses.
+### Analyzing stock market data using electrophysiological analyses.
 
 ### This shouldn't work but I wanted to try it anyways.
 
