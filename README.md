@@ -2,6 +2,6 @@
 
 ### Analyzing stock market data using electrophysiological analyses.
 
-### This shouldn't work but I wanted to try it anyways.
+This shouldn't work but I wanted to try it anyways.
 
 Most analyses that I used are better described here: https://github.com/voytekresearch/tutorials
